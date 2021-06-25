@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: cd1f9a17e07318147bcd3b7e0ae2e73e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tubeLightReference: {fileID: 4193932478149791061, guid: daf1f8f514e44ca45982df2261fd889e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
