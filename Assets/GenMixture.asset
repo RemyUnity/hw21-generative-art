@@ -204,21 +204,21 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   serializedNodes: []
   nodes:
-  - rid: 1094147680011812864
-  - rid: 1094147680011812865
-  - rid: 1094147680011812866
-  - rid: 1094147680011812867
-  - rid: 1094147680011812868
-  - rid: 1094147680011812869
-  - rid: 1094147680011812870
-  - rid: 1094147680011812871
-  - rid: 1094147680011812872
-  - rid: 1094147680011812873
-  - rid: 1094147680011812874
-  - rid: 1094147680011812875
-  - rid: 1094147680011812876
-  - rid: 1094147680011812877
-  - rid: 1094147680011812878
+  - rid: 1094147752534999152
+  - rid: 1094147752534999153
+  - rid: 1094147752534999154
+  - rid: 1094147752534999155
+  - rid: 1094147752534999156
+  - rid: 1094147752534999157
+  - rid: 1094147752534999158
+  - rid: 1094147752534999159
+  - rid: 1094147752534999160
+  - rid: 1094147752534999161
+  - rid: 1094147752534999162
+  - rid: 1094147752534999163
+  - rid: 1094147752534999164
+  - rid: 1094147752534999165
+  - rid: 1094147752534999166
   edges:
   - GUID: 861cd773-acb1-49a8-8306-33f88d61eb14
     owner: {fileID: 11400000}
@@ -346,7 +346,7 @@ MonoBehaviour:
       serializedType: Mixture.MixtureParameterView, Unity.ShaderGraph.GraphicsTests,
         Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
   exposedParameters:
-  - rid: 1094147680011812879
+  - rid: 1094147752534999167
   serializedParameterList: []
   stickyNotes: []
   nodeInspectorReference: {fileID: 0}
@@ -396,7 +396,7 @@ MonoBehaviour:
   references:
     version: 2
     RefIds:
-    - rid: 1094147680011812864
+    - rid: 1094147752534999152
       type: {class: OutputNode, ns: Mixture, asm: Mixture.Runtime}
       data:
         nodeCustomName: 
@@ -448,7 +448,7 @@ MonoBehaviour:
           conversionFormat: 0
           sRGB: 1
           finalCopyMaterial: {fileID: -8375537616652604712}
-    - rid: 1094147680011812865
+    - rid: 1094147752534999153
       type: {class: GradienMattetNode, ns: Mixture, asm: Mixture.Runtime}
       data:
         nodeCustomName: 
@@ -536,7 +536,7 @@ MonoBehaviour:
             serializedType: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
               PublicKeyToken=b77a5c561934e089
         shaderGUID: 46c02ba1b0b63954bab0afcd9e828ac6
-    - rid: 1094147680011812866
+    - rid: 1094147752534999154
       type: {class: RemapNode, ns: Mixture, asm: Mixture.Runtime}
       data:
         nodeCustomName: 
@@ -599,7 +599,7 @@ MonoBehaviour:
             serializedType: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
               PublicKeyToken=b77a5c561934e089
         shaderGUID: 4c38089cecadf714bbabc313d575804d
-    - rid: 1094147680011812867
+    - rid: 1094147752534999155
       type: {class: CurveNode, ns: Mixture, asm: Mixture.Runtime}
       data:
         nodeCustomName: 
@@ -756,7 +756,7 @@ MonoBehaviour:
           m_PostInfinity: 2
           m_RotationOrder: 4
         evaluationRange: {x: 0, y: 1}
-    - rid: 1094147680011812868
+    - rid: 1094147752534999156
       type: {class: ShaderNode, ns: Mixture, asm: Mixture.Runtime}
       data:
         nodeCustomName: 
@@ -813,7 +813,7 @@ MonoBehaviour:
             serializedType: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
               PublicKeyToken=b77a5c561934e089
         shaderGUID: 683e78ae72e76744fbb5f8b9c58526fb
-    - rid: 1094147680011812869
+    - rid: 1094147752534999157
       type: {class: ShaderNode, ns: Mixture, asm: Mixture.Runtime}
       data:
         nodeCustomName: 
@@ -876,7 +876,7 @@ MonoBehaviour:
             serializedType: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
               PublicKeyToken=b77a5c561934e089
         shaderGUID: c6e2ecbefc45e034287ecdbb4f99c240
-    - rid: 1094147680011812870
+    - rid: 1094147752534999158
       type: {class: TimeNode, ns: Mixture, asm: Mixture.Runtime}
       data:
         nodeCustomName: 
@@ -916,7 +916,7 @@ MonoBehaviour:
         previewEV100: 0
         previewSlice: 0
         isPinned: 0
-    - rid: 1094147680011812871
+    - rid: 1094147752534999159
       type: {class: PerlinNoise, ns: Mixture, asm: Mixture.Runtime}
       data:
         nodeCustomName: 
@@ -1022,7 +1022,7 @@ MonoBehaviour:
             serializedType: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
               PublicKeyToken=b77a5c561934e089
         shaderGUID: 3ff8d72a4c500ad4093607671bcd9097
-    - rid: 1094147680011812872
+    - rid: 1094147752534999160
       type: {class: UVNode, ns: Mixture, asm: Mixture.Runtime}
       data:
         nodeCustomName: 
@@ -1079,7 +1079,7 @@ MonoBehaviour:
             serializedType: UnityEngine.Vector4, UnityEngine.CoreModule, Version=0.0.0.0,
               Culture=neutral, PublicKeyToken=null
         shaderGUID: 0e57459cc2eca8e4eb3e062b8ed60321
-    - rid: 1094147680011812873
+    - rid: 1094147752534999161
       type: {class: VectorMulNode, ns: Mixture, asm: Mixture.Runtime}
       data:
         nodeCustomName: 
@@ -1120,9 +1120,9 @@ MonoBehaviour:
         previewSlice: 0
         isPinned: 0
         a: {x: 0.03, y: 0.03, z: 0.03, w: 0.03}
-        b: {x: 0.6279843, y: 0.6279843, z: 0.6279843, w: 0.6279843}
-        o: {x: 0.018839529, y: 0.018839529, z: 0.018839529, w: 0.018839529}
-    - rid: 1094147680011812874
+        b: {x: 5.201237, y: 5.201237, z: 5.201237, w: 5.201237}
+        o: {x: 0.1560371, y: 0.1560371, z: 0.1560371, w: 0.1560371}
+    - rid: 1094147752534999162
       type: {class: MulNode, ns: Mixture, asm: Mixture.Runtime}
       data:
         nodeCustomName: 
@@ -1185,7 +1185,7 @@ MonoBehaviour:
             serializedType: UnityEngine.Vector4, UnityEngine.CoreModule, Version=0.0.0.0,
               Culture=neutral, PublicKeyToken=null
         shaderGUID: 535eef2511f2f5540b6c9cc7430067f4
-    - rid: 1094147680011812875
+    - rid: 1094147752534999163
       type: {class: FloatNode, ns: Mixture, asm: Mixture.Runtime}
       data:
         nodeCustomName: 
@@ -1226,7 +1226,7 @@ MonoBehaviour:
         previewSlice: 0
         isPinned: 0
         Float: 0.4
-    - rid: 1094147680011812876
+    - rid: 1094147752534999164
       type: {class: BlendNode, ns: Mixture, asm: Mixture.Runtime}
       data:
         nodeCustomName: 
@@ -1314,7 +1314,7 @@ MonoBehaviour:
             serializedType: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
               PublicKeyToken=b77a5c561934e089
         shaderGUID: 5d69ff00d9a32944ea012824393d489a
-    - rid: 1094147680011812877
+    - rid: 1094147752534999165
       type: {class: AddNode, ns: Mixture, asm: Mixture.Runtime}
       data:
         nodeCustomName: 
@@ -1377,7 +1377,7 @@ MonoBehaviour:
             serializedType: UnityEngine.Vector4, UnityEngine.CoreModule, Version=0.0.0.0,
               Culture=neutral, PublicKeyToken=null
         shaderGUID: 30368c84ef4f1eb4d900c9b34b8c58ce
-    - rid: 1094147680011812878
+    - rid: 1094147752534999166
       type: {class: FloatNode, ns: Mixture, asm: Mixture.Runtime}
       data:
         nodeCustomName: 
@@ -1418,7 +1418,7 @@ MonoBehaviour:
         previewSlice: 0
         isPinned: 0
         Float: 0.03
-    - rid: 1094147680011812879
+    - rid: 1094147752534999167
       type: {class: Vector4Parameter, ns: GraphProcessor, asm: com.alelievr.NodeGraphProcessor.Runtime}
       data:
         guid: 92ab76da-007c-4970-a98b-ba89ee9772aa
@@ -1430,9 +1430,9 @@ MonoBehaviour:
           serializedValue: 
         input: 1
         settings:
-          rid: 1094147680011812880
+          rid: 1094147752534999168
         val: {x: 0, y: 0, z: 0, w: 0}
-    - rid: 1094147680011812880
+    - rid: 1094147752534999168
       type: {class: ExposedParameter/Settings, ns: GraphProcessor, asm: com.alelievr.NodeGraphProcessor.Runtime}
       data:
         isHidden: 0
@@ -1715,6 +1715,6 @@ Material:
     m_Ints: []
     m_Floats: []
     m_Colors:
-    - _Bias: {r: 0.018839529, g: 0.018839529, b: 0.018839529, a: 0.018839529}
+    - _Bias: {r: 0.1560371, g: 0.1560371, b: 0.1560371, a: 0.1560371}
     - _Scale: {r: 1, g: 1, b: 1, a: 0}
   m_BuildTextureStacks: []
